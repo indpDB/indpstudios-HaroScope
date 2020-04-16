@@ -1,50 +1,50 @@
 [
-	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/01.jpg",
-		"URL": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/01data.png"
-	},
-	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/02.jpg",
-		"URL": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/02data.png"
-	},
-	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/03.jpg",
-		"URL": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/03data.png"
-	},
-	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/04.jpg",
-		"URL": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/04data.png"
-	},
-	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/05.jpg",
-		"URL": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/05data.png"
-	},
-	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/06.jpg",
-		"URL": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/06data.png"
-	},
-	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/07.jpg",
-		"URL": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/07data.png"
-	},
-	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/08.jpg",
-		"URL": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/08data.png"
-	},
-	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/09.jpg",
-		"URL": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/09data.png"
-	},
-	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/10.jpg",
-		"URL": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/10data.png"
-	},
-	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/11.jpg",
-		"URL": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/11data.png"
-	},
-	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/12.jpg",
-		"URL": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/12data.png"
-	}
+  {
+    "MenuIcon": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/01.jpg",
+    "URL": "https://www.youtube.com"
+  },
+  {
+    "MenuIcon": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/02.jpg",
+    "URL": "https://www.youtube.com"
+  },
+  {
+    "MenuIcon": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/03.jpg",
+    "URL": "https://www.youtube.com"
+  },
+  {
+    "MenuIcon": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/04.jpg",
+    "URL": "https://www.youtube.com"
+  },
+  {
+    "MenuIcon": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/05.jpg",
+    "URL": "https://www.youtube.com"
+  },
+  {
+    "MenuIcon": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/06.jpg",
+    "URL": "https://www.youtube.com"
+  },
+  {
+    "MenuIcon": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/07.jpg",
+    "URL": "https://www.youtube.com"
+  },
+  {
+    "MenuIcon": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/08.jpg",
+    "URL": "https://www.youtube.com"
+  },
+  {
+    "MenuIcon": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/09.jpg",
+    "URL": "https://www.youtube.com"
+  },
+  {
+    "MenuIcon": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/10.jpg",
+    "URL": "https://www.youtube.com"
+  },
+  {
+    "MenuIcon": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/11.jpg",
+    "URL": "https://www.youtube.com"
+  },
+  {
+    "MenuIcon": "https://raw.githubusercontent.com/indpDB/indpstudios-HaroScope/master/12.jpg",
+    "URL": "https://www.youtube.com"
+  }
 ]
